@@ -1,0 +1,171 @@
+doctype html
+html
+  head
+    meta(name='viewport', content='width=device-width')
+    meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
+    title= subject
+    
+    style.
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f5f5f5;
+        padding: 20px;
+        line-height: 1.6;
+      }
+      .email-container {
+        max-width: 600px;
+        margin: 0 auto;
+        background: #ffffff;
+        border-radius: 16px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+      .header {
+        background: linear-gradient(135deg, #FF5722 0%, #FF6F3C 100%);
+        padding: 40px 30px;
+        text-align: center;
+      }
+      .logo {
+        font-size: 32px;
+        font-weight: bold;
+        color: #ffffff;
+        margin-bottom: 10px;
+        letter-spacing: 1px;
+      }
+      .tagline {
+        color: #fff5f2;
+        font-size: 14px;
+      }
+      .content {
+        padding: 40px 30px;
+      }
+      .greeting {
+        font-size: 24px;
+        color: #2c3e50;
+        margin-bottom: 20px;
+        font-weight: 600;
+      }
+      .message {
+        color: #4b5563;
+        font-size: 16px;
+        line-height: 1.8;
+        margin-bottom: 30px;
+      }
+      .btn-container {
+        text-align: center;
+        margin: 35px 0;
+      }
+      .btn {
+        display: inline-block;
+        padding: 16px 40px;
+        background: linear-gradient(135deg, #FF5722 0%, #FF6F3C 100%);
+        color: #ffffff !important;
+        text-decoration: none;
+        border-radius: 30px;
+        font-weight: 600;
+        font-size: 16px;
+        transition: transform 0.2s;
+        box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);
+      }
+      .btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(255, 87, 34, 0.6);
+      }
+      .divider {
+        height: 1px;
+        background: linear-gradient(90deg, transparent, #e5e7eb, transparent);
+        margin: 30px 0;
+      }
+      .info-box {
+        background: #fff8f6;
+        border-left: 4px solid #FF5722;
+        padding: 20px;
+        border-radius: 8px;
+        margin: 25px 0;
+      }
+      .info-box p {
+        color: #6b7280;
+        font-size: 14px;
+        margin: 8px 0;
+      }
+      .footer {
+        background: #f9fafb;
+        padding: 30px;
+        text-align: center;
+        border-top: 1px solid #e5e7eb;
+      }
+      .footer-text {
+        color: #9ca3af;
+        font-size: 13px;
+        margin: 8px 0;
+      }
+      .footer-text a {
+        color: #FF5722;
+        text-decoration: none;
+      }
+      .social-links {
+        margin: 20px 0;
+      }
+      .social-links a {
+        display: inline-block;
+        margin: 0 10px;
+        color: #9ca3af;
+        text-decoration: none;
+        font-size: 14px;
+      }
+      @media only screen and (max-width: 600px) {
+        body {
+          padding: 10px;
+        }
+        .header {
+          padding: 30px 20px;
+        }
+        .content {
+          padding: 30px 20px;
+        }
+        .greeting {
+          font-size: 20px;
+        }
+        .message {
+          font-size: 15px;
+        }
+        .btn {
+          padding: 14px 30px;
+          font-size: 15px;
+        }
+      }
+
+  body
+    .email-container
+      //- HEADER
+      .header
+        .logo TravelQuest
+        .tagline Khám Phá Miền Trung Tuyệt Đẹp
+
+      //- CONTENT
+      .content
+        block content
+
+      //- FOOTER
+      .footer
+        .footer-text
+          strong TravelQuest Travel Company
+        .footer-text Đà Nẵng, Việt Nam
+        .footer-text
+          | Email: 
+          a(href='mailto:support@travelquest.vn') support@travelquest.vn
+        
+        .divider
+        
+        .footer-text © 2024 TravelQuest. All rights reserved.
+        .footer-text
+          a(href='#') Chính sách bảo mật
+          |  • 
+          a(href='#') Điều khoản sử dụng
+          |  • 
+          a(href='#') Hủy đăng ký

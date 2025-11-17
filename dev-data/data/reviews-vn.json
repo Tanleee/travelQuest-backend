@@ -1,0 +1,275 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "review": "Tour ẩm thực miền Trung này thật sự tuyệt vời! Các món ăn đường phố rất phong phú và đậm đà hương vị.",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "review": "Chủ đề Di sản Huế rất hay, nhưng thời gian tham quan các lăng tẩm hơi gấp gáp. Cần thêm chút thời gian thư thả.",
+    "rating": 4,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "review": "Tour Núi rừng miền Trung quá ấn tượng! Cảnh sắc thiên nhiên hùng vĩ và trải nghiệm cáp treo thật đáng giá.",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a36b714eb5c17645c910f",
+    "review": "Tour Ẩm thực rất ngon miệng! Hướng dẫn viên thân thiện và nhiệt tình giới thiệu món ăn.",
+    "rating": 4,
+    "user": "5c8a1e1a2f8fb814b56fa182",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a379a14eb5c17645c9110",
+    "review": "Thiên đường biển xanh đúng như tên gọi! Biển đảo miền Trung quá đẹp, nước trong veo, rất thích hợp để nghỉ dưỡng.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a37b114eb5c17645c9111",
+    "review": "Cung đình Huế cổ kính và uy nghiêm, nhưng tour hơi thiếu các hoạt động tương tác với văn hóa địa phương.",
+    "rating": 4,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a37cb14eb5c17645c9112",
+    "review": "Hang động Quảng Bình là một kỳ quan! Trải nghiệm thám hiểm và đu dây mạo hiểm thật sự đáng nhớ.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a381714eb5c17645c9115",
+    "review": "Biển đảo tuyệt đẹp! Hướng dẫn viên chu đáo và sắp xếp lịch trình hợp lý.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a382d14eb5c17645c9116",
+    "review": "Rất hài lòng với tour Di sản Huế. Các địa điểm lịch sử được bảo tồn tốt và có nhiều câu chuyện thú vị.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a384114eb5c17645c9117",
+    "review": "Trải nghiệm khám phá hang động thật phi thường! Cảm giác như lạc vào một thế giới khác dưới lòng đất.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a385614eb5c17645c9118",
+    "review": "Núi rừng miền Trung đúng là lựa chọn hoàn hảo cho người thích trekking. Đường đi khó khăn nhưng cảnh đẹp vượt mong đợi.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a390d14eb5c17645c911e",
+    "review": "Núi rừng kỳ vĩ, đặc biệt là khu vực Bạch Mã. Cáp treo Bà Nà Hills cho tầm nhìn tuyệt đẹp.",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a391f14eb5c17645c911f",
+    "review": "Tour ẩm thực là điểm nhấn của chuyến đi. Các khu chợ đêm đều rất náo nhiệt và đa dạng món ăn.",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a395b14eb5c17645c9120",
+    "review": "Rất nhiều bãi biển đẹp, cảm giác thư giãn tuyệt đối. Tour này đúng là thiên đường cho người yêu biển.",
+    "rating": 5,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a399014eb5c17645c9121",
+    "review": "Tour núi rừng có nhiều hoạt động thú vị, nhưng lịch trình hơi dồn dập, chưa có nhiều thời gian nghỉ ngơi.",
+    "rating": 4,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a3a7014eb5c17645c9124",
+    "review": "Thật sự là ăn sập chợ đêm đúng nghĩa! Cảm ơn công ty du lịch đã tổ chức tour ẩm thực tuyệt vời này.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3a8d14eb5c17645c9125",
+    "review": "Biển đảo miền Trung là kỳ nghỉ trong mơ. Cù Lao Chàm và Bình Ba không làm tôi thất vọng.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3a9914eb5c17645c9126",
+    "review": "Tour Cố đô Huế rất hay, phù hợp với những người yêu thích lịch sử và kiến trúc cổ.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3aaa14eb5c17645c9127",
+    "review": "Trải nghiệm khám phá hang động rất chuyên nghiệp, trang thiết bị đảm bảo an toàn.",
+    "rating": 4,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3b6714eb5c17645c912e",
+    "review": "Các bãi biển và khu nghỉ dưỡng trong tour Biển đảo đều chất lượng cao, cảnh quan hoàn hảo.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3b7c14eb5c17645c912f",
+    "review": "Hải sản tươi ngon, món ăn đa dạng từ Huế đến Đà Nẵng. Rất xứng đáng cho chuyến đi khám phá ẩm thực.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3b9f14eb5c17645c9130",
+    "review": "Các lăng tẩm và chùa chiền ở Huế đều mang vẻ đẹp lịch sử không thể quên.",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3bc414eb5c17645c9131",
+    "review": "Tour Hang động Quảng Bình là trải nghiệm mạo hiểm tuyệt vời nhất tôi từng tham gia. Cảm giác chinh phục rất đã!",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3c2514eb5c17645c9134",
+    "review": "Biển đảo miền Trung là điểm đến hoàn hảo cho cả gia đình. Đã có một kỳ nghỉ thật sự thư giãn.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3c3b14eb5c17645c9135",
+    "review": "Tour Cố đô Huế rất ý nghĩa, giúp tôi hiểu thêm về lịch sử Việt Nam.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3c5314eb5c17645c9136",
+    "review": "Hang động Thiên Đường và Phong Nha vô cùng tráng lệ, đúng là kỳ quan thiên nhiên.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3c6814eb5c17645c9137",
+    "review": "Cảnh núi rừng rất đẹp, nhưng hành trình di chuyển giữa các điểm đến hơi xa và tốn thời gian.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a3cdc14eb5c17645c913b",
+    "review": "Tour ẩm thực rất đáng tiền! Đã thử được nhiều món mới lạ và độc đáo.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3cf414eb5c17645c913c",
+    "review": "Biển đảo miền Trung cho tôi những bức ảnh tuyệt đẹp. Rất hài lòng với cảnh quan tự nhiên.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3d1e14eb5c17645c913d",
+    "review": "Động Phong Nha rất hùng vĩ. Hướng dẫn viên có kiến thức tốt về địa chất và lịch sử hang động.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3de514eb5c17645c9143",
+    "review": "Tour Hang động Quảng Bình vượt ngoài mong đợi! Vẻ đẹp của hang động thật sự choáng ngợp.",
+    "rating": 5,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3e0714eb5c17645c9144",
+    "review": "Các bãi biển đều sạch sẽ, nước biển ấm áp. Tôi đã có những ngày nghỉ tuyệt vời ở Biển đảo miền Trung.",
+    "rating": 5,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3f0114eb5c17645c9145",
+    "review": "Tour Lý Sơn đẹp đến choáng ngợp! Hải sản tươi ngon và Cổng Tò Vò nhìn ngoài đời còn ấn tượng hơn trong ảnh.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a3f1514eb5c17645c9146",
+    "review": "Trải nghiệm lặn ngắm san hô ở Đảo Bé rất tuyệt. Hướng dẫn viên rất chuyên nghiệp và nhiệt tình.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a3f2c14eb5c17645c9147",
+    "review": "Tour Núi Thiên Ấn mang lại cảm giác bình yên, nhưng khu chứng tích Sơn Mỹ hơi nặng nề về cảm xúc.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2991"
+  },
+  {
+    "_id": "5c8a3f4a14eb5c17645c9148",
+    "review": "Biển Mỹ Khê rất sạch và đẹp, là nơi lý tưởng để thư giãn sau một ngày tham quan các di tích lịch sử.",
+    "rating": 4,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c2991"
+  },
+  {
+    "_id": "5c8a3f6d14eb5c17645c9149",
+    "review": "Tour Núi Rừng Quảng Ngãi là một thử thách thực sự! Trekking lên Cà Đam rất mệt nhưng cảnh quan trên đỉnh xứng đáng.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2992"
+  },
+  {
+    "_id": "5c8a3f8114eb5c17645c914a",
+    "review": "Thác Trắng Minh Long rất hùng vĩ. Tour này hoàn hảo cho những ai thích các hoạt động ngoài trời mạnh.",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2992"
+  },
+  {
+    "_id": "5c8a3f9314eb5c17645c914b",
+    "review": "Tour Lý Sơn bị hủy do thời tiết xấu, rất thất vọng. Mong công ty có phương án dự phòng tốt hơn.",
+    "rating": 2,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c2990"
+  }
+]
